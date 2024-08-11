@@ -1,15 +1,15 @@
 > 🚩 Versión Actual: 2.0.4
 
-## 🍟 **`Ai Yaemori - MD`**
+##  **`NEXUS BOT- MD`**
 
 ![Yaemori](https://telegra.ph/file/731e8ba1d2a4a506903cf.jpg)
 
 ---
 
-> **`AVISO`**: Ai - Yaemori no funciona en la terminal (termux).
+> **`AVISO`**: nexus no funciona en la terminal (termux).
 > Estaremos arreglando el error de la bot para que se pueda instalar en la terminal (termux).
 
-> **`Ai Yaemori - MD`** es un super bot de WhatsApp con multi funciones.
+> **`NEXUS BOT - MD`** es un super bot de WhatsApp con multi funciones.
 ---
 
 ### <img src="https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif" alt="Prueba La Bot Aqui" width="42" height="42"> Prueba La Bot Aqui
@@ -59,12 +59,12 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > npm start
 ```
 
-🍟 **`YAEMORI 24/7 (TERMUX)`**
+🍟 **`NEXUS 24/7 (TERMUX)`**
 ```bash
 > termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
 ```
 
-🚩 **`ACTUALIZAR YAEMORI`**
+⚙️ **`ACTUALIZAR NEXUS`**
 > Note Comandos para actualizar Ai Yaemori  de forma automática
 ```bash
 grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/OfcDiego/YaemoriBot-MD/master/update.sh | bash
