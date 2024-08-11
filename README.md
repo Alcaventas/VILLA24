@@ -147,8 +147,8 @@ href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino
 
 ### `🍟 CREADOR`
 <a
-href="https://github.com/WOTCHITO/Nexus-bot"><img src="https://github.com/OfcDiego.png" width="130" height="130" alt="Diego"/></a>
+href="https://github.com/WOTCHITO/Nexus-bot"><img src="https://github.com/WOTCHITO/Nexus-bot.png" width="130" height="130" alt="Diego"/></a>
 
-> Copyright (c) 2024 **[OfcDiego](https://whatsapp.com/channel/0029VaQD7LAJP216tu9liI2A)**.
+> Copyright (c) 2024 **[EDER.JS](https://whatsapp.com/channel/0029VakrvQQDp2QD6dQHWS3n)**.
 
 **`¡GRACIAS POR PREFERIRNOS!` 🍟**
