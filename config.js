@@ -26,16 +26,16 @@ global.prems = []
 global.mods = []
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
-global.packname = '⪛✰ 𝐀𝐢 𝐘𝐚𝐞𝐦𝐨𝐫𝐢 - 𝐌𝐃 ✰⪜'
-global.author = '𝖮𝖿𝖼.𝖣𝗂𝖾𝗀𝗈 👑'
-global.wm = '𝗬𝗮𝗲𝗺𝗼𝗿𝗶 𝗕𝗼𝘁 - 𝗠𝗗 🌻'
-global.titulowm = '𝗔𝗶 𝗬𝗮𝗲𝗺𝗼𝗿𝗶 - 𝗠𝗗 🍓'
+global.packname = '⪛✰ nexus bot - 𝐌𝐃 ✰⪜'
+global.author = 'Eder 👑'
+global.wm = 'Nexus 𝗕𝗼𝘁 - 𝗠𝗗 ✨'
+global.titulowm = 'nexus - 𝗠𝗗 🧿'
 global.titulowm2 = '𝖠𝗂 𝖸𝖺𝖾𝗆𝗈𝗋𝗂 - 𝖬𝖣 ✨'
-global.igfg = '𝚈𝚊𝚎𝚖𝚘𝚛𝚒𝙱𝚘𝚝-𝙼𝙳 🌸'
+global.igfg = 'nexus bot-𝙼𝙳 👾'
 global.botname = 'Yᴀᴇᴍᴏʀɪ Bᴏᴛ - MD 🍟'
 global.team = '⚡︎ ᥣіgһ𝗍ᥒіᥒց - 𝗍ᥱᥲm ⚡︎'
 global.dev = '🚩 Powered By あ S_ᴅɪᴇɢᴏ あ'
-global.textbot = '𝗔𝗶 𝗬𝗮𝗲𝗺𝗼𝗿𝗶 : 𝗢𝗳𝗰𝗗𝗶𝗲𝗴𝗼 🚩'
+global.textbot = 'Nexus bot : Eder 🕳️'
 global.vs = '2.0.4'
 
 
@@ -55,7 +55,7 @@ global.gp1 = 'https://chat.whatsapp.com/Em1J2VaglHc1fe26YtBDCS' //Grupo Oficial 
 global.gp2 = 'https://chat.whatsapp.com/LZXw8nsXoodGGRN61zRtVG' //Grupo Yaemori
 global.gp3 = 'https://chat.whatsapp.com/Ksd32KH9zFoDmO1PJt44M7' //GataBot Y Yaemori
 global.comunidad1 = 'https://chat.whatsapp.com/HtpPF1WqhVW0CIdOlztziq' //Comunidad Yaemori
-global.channel = 'https://whatsapp.com/channel/0029VaQD7LAJP216tu9liI2A' //Canal Oficial
+global.channel = 'https://whatsapp.com/channel/0029VakrvQQDp2QD6dQHWS3n' //Canal Oficial
 global.yt = 'https://www.youtube.com/@OfcDiego' //Canal De Youtube
 global.md = 'https://github.com/OfcDiego/YaemoriBot-MD' //Github Oficial
 global.fb = 'https://www.facebook.com/diegosaroficial?mibextid=ZbWKwL' //Facebook Del Propietario
