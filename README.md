@@ -7,7 +7,7 @@
 ---
 
 > **`AVISO`**: nexus no funciona en la terminal (termux).
-> Estaremos arreglando el error de la bot para que se pueda instalar en la terminal (termux).
+> Estaremos arreglando el error del bot para que se pueda instalar en la terminal (termux).
 
 > **`NEXUS BOT - MD`** es un super bot de WhatsApp con multi funciones.
 ---
