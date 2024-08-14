@@ -142,10 +142,4 @@ Para que no pierda su progreso en Yaemori, estos comandos realizarán un respald
 </a>
 
 
-### `🍟 CREADOR`
-<a
-href="https://telegra.ph/file/52ab9528e0fc5e5e814d1.jpg"><img src="https://github.com/WOTCHITO/Nexus-bot.png" width="130" height="130" alt="Eder"/></a>
-
-> Copyright (c) 2024 **[EDER.JS](https://whatsapp.com/channel/0029VakrvQQDp2QD6dQHWS3n)**.
-
 **`¡GRACIAS POR PREFERIRNOS!` 🍟**
