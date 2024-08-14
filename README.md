@@ -134,12 +134,9 @@ Para que no pierda su progreso en Yaemori, estos comandos realizarán un respald
 - [x] Descarga de música y video De YT
 - [ ] Otros
 
---- 
+ 
 
-### `🚩 DESARROLLADORES`
-<a href="https://github.com/OfcDiego/YaemoriBot-MD/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=OfcDiego/YaemoriBot-MD" /> 
-</a>
+
 
 
 **`¡GRACIAS POR PREFERIRNOS!` 🍟**
