@@ -141,9 +141,6 @@ Para que no pierda su progreso en Yaemori, estos comandos realizarán un respald
 <img src="https://contrib.rocks/image?repo=OfcDiego/YaemoriBot-MD" /> 
 </a>
 
-### `✨️ AGRADECIMIENTOS`
-<a
-href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="120" height="120" alt="Agradecimientos"/></a>
 
 ### `🍟 CREADOR`
 <a
