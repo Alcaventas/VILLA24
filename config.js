@@ -54,10 +54,10 @@ global.gp3 = 'https://chat.whatsapp.com/KTZq5URCoUy9UffgkBYpJp' //GataBot Y Yaem
 global.comunidad1 = 'https://chat.whatsapp.com/KTZq5URCoUy9UffgkBYpJp' //Comunidad Yaemori
 global.channel = '' //Canal Oficial
 global.yt = '' //Canal De Youtube
-global.md = 'https://github.com/OfcDiego/YaemoriBot-MD' //Github Oficial
-global.fb = 'https://www.facebook.com/diegosaroficial?mibextid=ZbWKwL' //Facebook Del Propietario
-global.tiktok = 'https://tiktok.com/@theluffybot' //Cuenta tiktok
-global.correo = 'theyaemoribot@gmail.com'
+global.md = 'https://github.com/Alcaventas' //Github Oficial
+global.fb = '' //Facebook Del Propietario
+global.tiktok = '' //Cuenta tiktok
+global.correo = ''
 
 //• ↳ ◜𝑻𝑰𝑬𝑴𝑷𝑶◞ • 🕒
 global.d = new Date(new Date + 3600000);
