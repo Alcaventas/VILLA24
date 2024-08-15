@@ -24,10 +24,10 @@ global.mods = []
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
 global.packname = '𝗔𝗟𝗖𝗔𝗕𝗢𝗧 (👑)'
-global.author = 'Eder 👑'
+global.author = 'Alcashop 👑'
 global.wm = '𝗔𝗟𝗖𝗔𝗕𝗢𝗧 🌀'
 global.titulowm = '𝗔𝗟𝗖𝗔𝗕𝗢𝗧 🌀'
-global.titulowm2 = '𝖠𝗂 𝖸𝖺𝖾𝗆𝗈𝗋𝗂 - 𝖬𝖣 ✨'
+global.titulowm2 = '@Alcashop.ff ✨'
 global.igfg = '𝗔𝗟𝗖𝗔𝗕𝗢𝗧 🌀'
 global.botname = '𝗔𝗟𝗖𝗔𝗕𝗢𝗧 🍟'
 global.team = 'Alcashop.ff'
@@ -68,8 +68,8 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nYaemori`;
-global.nomorown = '573012482597';
+global.wm2 = `${dia} ${fecha}\AlcabotV24`;
+global.nomorown = '528241050228';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
