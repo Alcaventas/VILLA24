@@ -25,14 +25,14 @@ global.mods = []
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
 global.packname = '𝗔𝗟𝗖𝗔𝗕𝗢𝗧 (👑)'
 global.author = 'Eder 👑'
-global.wm = 'Nexus 𝗕𝗼𝘁 - 𝗠𝗗 ✨'
-global.titulowm = 'nexus - 𝗠𝗗 🧿'
+global.wm = '𝗔𝗟𝗖𝗔𝗕𝗢𝗧 🌀'
+global.titulowm = '𝗔𝗟𝗖𝗔𝗕𝗢𝗧 🌀'
 global.titulowm2 = '𝖠𝗂 𝖸𝖺𝖾𝗆𝗈𝗋𝗂 - 𝖬𝖣 ✨'
-global.igfg = 'nexus bot-𝙼𝙳 👾'
-global.botname = 'Yᴀᴇᴍᴏʀɪ Bᴏᴛ - MD 🍟'
-global.team = '⚡︎ ᥣіgһ𝗍ᥒіᥒց - 𝗍ᥱᥲm ⚡︎'
-global.dev = '🚩 Powered By あ S_ᴅɪᴇɢᴏ あ'
-global.textbot = 'Nexus bot : Eder 🕳️'
+global.igfg = '𝗔𝗟𝗖𝗔𝗕𝗢𝗧 🌀'
+global.botname = '𝗔𝗟𝗖𝗔𝗕𝗢𝗧 🍟'
+global.team = 'Alcashop.ff'
+global.dev = '🚩 Powered By 𝘼𝙡𝙘𝙖𝙨𝙝𝙤𝙥.𝙛𝙛'
+global.textbot = '𝗔𝗟𝗖𝗔𝗕𝗢𝗧'
 global.vs = '2.0.4'
 
 
@@ -48,12 +48,12 @@ global.adios = fs.readFileSync('./media/adios.jpg')
 global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: '✨️ 𝗦𝘂𝗽𝗲𝗿 𝗔𝗶 𝗬𝗮𝗲𝗺𝗼𝗿𝗶 🍟', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
 
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
-global.gp1 = 'https://chat.whatsapp.com/Em1J2VaglHc1fe26YtBDCS' //Grupo Oficial De Yaemori
-global.gp2 = 'https://chat.whatsapp.com/LZXw8nsXoodGGRN61zRtVG' //Grupo Yaemori
-global.gp3 = 'https://chat.whatsapp.com/Ksd32KH9zFoDmO1PJt44M7' //GataBot Y Yaemori
-global.comunidad1 = 'https://chat.whatsapp.com/HtpPF1WqhVW0CIdOlztziq' //Comunidad Yaemori
-global.channel = 'https://whatsapp.com/channel/0029VakrvQQDp2QD6dQHWS3n' //Canal Oficial
-global.yt = 'https://www.youtube.com/@OfcDiego' //Canal De Youtube
+global.gp1 = 'https://chat.whatsapp.com/KTZq5URCoUy9UffgkBYpJp' //Grupo Oficial De Yaemori
+global.gp2 = 'https://chat.whatsapp.com/KTZq5URCoUy9UffgkBYpJp' //Grupo Yaemori
+global.gp3 = 'https://chat.whatsapp.com/KTZq5URCoUy9UffgkBYpJp' //GataBot Y Yaemori
+global.comunidad1 = 'https://chat.whatsapp.com/KTZq5URCoUy9UffgkBYpJp' //Comunidad Yaemori
+global.channel = '' //Canal Oficial
+global.yt = '' //Canal De Youtube
 global.md = 'https://github.com/OfcDiego/YaemoriBot-MD' //Github Oficial
 global.fb = 'https://www.facebook.com/diegosaroficial?mibextid=ZbWKwL' //Facebook Del Propietario
 global.tiktok = 'https://tiktok.com/@theluffybot' //Cuenta tiktok
